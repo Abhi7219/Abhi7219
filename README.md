@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhi7219
 - 👀 I’m interested in ...Explore New Things
-- 🌱 I’m currently learning ...Full stackas well as web Development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...Full stack as well as web Development
+- 💞️ I’m looking to collaborate on ...Automation and coding
 - 📫 How to reach me ...Instagram-https://www.instagram.com/official_abhya_96k/?hl=en
 - 😄 Pronouns: ...Abhi
 - 
